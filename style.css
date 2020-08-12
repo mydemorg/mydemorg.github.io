@@ -1,4 +1,9 @@
 body {
-   background-color: blue;
-   color: green;
+     background-color: purple;
+     color: gold; 
+}
+h1 {
+  color: white;
+  font-family: verdana;
+  font-size: 300%;
 }
